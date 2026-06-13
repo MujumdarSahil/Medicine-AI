@@ -46,8 +46,8 @@ Edit `backend/.env`:
 GROQ_API_KEY=your_actual_groq_api_key
 GEMINI_API_KEY=your_actual_gemini_api_key
 MEDICINE_PDF_PATH=C:\path\to\your\medicine.pdf
-MONGO_URI=mongodb://localhost:27017
-MONGO_DB=jarvis
+MONGO_URI= mongodb uri
+MONGO_DB=db name
 CHROMA_PERSIST_DIR=./chroma_db
 ```
 
